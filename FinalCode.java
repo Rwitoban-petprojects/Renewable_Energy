@@ -9,9 +9,8 @@ InputStreamReader(System.in));
         //Welcome Message
         System.out.println("Welcome to SUDDHA SHI 1426 : Model for Forecasting Energy transition between Renwable and Non-Renewable Energy sources for efficient Electricity Generation");
         System.out.println("******** SUDDHA SHI 1426 PROGRAM CODE MODEL IS DEVOLOPED BY ********");
-        System.out.println("****** 1. SOUMALYA BOSE ******");
-        System.out.println("****** 2. RWITOBAN GHOSH ******");
-        System.out.println("****** 3. SOURAV GOSWAMI ******");
+        System.out.println("****** 1. RWITOBAN GHOSH ******");
+        System.out.println("****** 2. SOUMALYA BOSE ******");
  
         //Main Input Section
         System.out.println("Main Input Section");
